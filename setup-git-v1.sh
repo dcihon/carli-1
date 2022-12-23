@@ -62,7 +62,7 @@ fi
 
 git init
 git config --global user.name "dcihon"
-git config --global user.email "danc@dccahome.com"
+git config --global user.email "danc@dccathome.com"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=18000'
